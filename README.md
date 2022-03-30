@@ -1,0 +1,1 @@
+# slicing_part-2_in_python
